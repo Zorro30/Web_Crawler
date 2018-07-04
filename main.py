@@ -2,7 +2,7 @@ import threading
 from queue import Queue
 from spider import spider
 from domain import *
-from wc_2 import *
+from include import *
 
 PROJECT_NAME = 'thesite'
 HOMEPAGE = 'http://www.wikipedia.org/'
